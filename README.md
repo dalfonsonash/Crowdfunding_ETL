@@ -20,4 +20,6 @@ The goals for this project are as follows:
     - category.csv
     - subcategory.csv
     - campaign.csv
-    - contacts.csv
+    - contacts.csv (used Option 1: Use Python dictionary methods per instructions.)
+    - ![image](https://github.com/dalfonsonash/Crowdfunding_ETL/assets/126922261/b8956349-189c-47a9-9907-0b7fbb89f80b)
+
