@@ -12,3 +12,12 @@ The goals for this project are as follows:
 3. Create the Contacts DataFrame
 4. Create the Crowdfunding Database
 
+#### Project Files
+
+1. Used the ETL_Mini_Project_Starter_Code.ipynb to create the necessary .csv files for the database.  
+   File renamed ETL_Mini_Project_PCushman_LPierantoni_DAlfonso.ipynb per instructions (see Starter Files folder).
+2. Created the following four .csv per instructions (see ..Starter_Files/Resources):
+    - category.csv
+    - subcategory.csv
+    - campaign.csv
+    - contacts.csv
