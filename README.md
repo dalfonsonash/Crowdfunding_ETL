@@ -1,6 +1,6 @@
 ## Project 2: Crowdfunding_ETL
 ## Team: Payson Cushman, Leo Pierantoni, and Dave Alfonso
-This is a team project with the purpose of building an ETL (Extract,Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we'll create four CSV files and use the CSV file data to create an ERD (Entity Relationship Diagram) and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
+This is a team project with the purpose of building an ETL (Extract,Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we'll create four CSV files and use the CSV file data to create an ERD (Entity Relationship Diagram) and a table schema. Finally, we’ll upload the CSV file data into a Postgres database.
 
 Collaboration and communication is key while working on different parts of the project. 
 ### Project Goals:
