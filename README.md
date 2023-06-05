@@ -10,7 +10,7 @@ The goals for this project are as follows:
 2. Create the Subcategory DataFrame, subcategory.csv
 3. Create the Campaign DataFrame, campaign.csv
 4. Create the Contacts DataFrame, contacts.csv
-5. Create an ERD and table schema using: https://www.quickdatabasediagrams.com/
+5. Using the CSV files above, create an ERD and table schema using: https://www.quickdatabasediagrams.com/
 6. Create a Postgres Crowdfunding Database
 
 
