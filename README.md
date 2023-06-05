@@ -9,7 +9,9 @@ The goals for this project are as follows:
 1. Create the Category and Subcategory DataFrames
 2. Create the Campaign DataFrame
 3. Create the Contacts DataFrame
-4. Create the Crowdfunding Database
+4. Create an ERD and table schema.
+5. Create a Postgres Crowdfunding Database
+
 
 #### Project Files
 
