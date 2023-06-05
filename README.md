@@ -6,11 +6,12 @@ Collaboration and communication is key while working on different parts of the p
 ### Project Goals:
 The goals for this project are as follows:
 
-1. Create the Category and Subcategory DataFrames
-2. Create the Campaign DataFrame
-3. Create the Contacts DataFrame
-4. Create an ERD and table schema.
-5. Create a Postgres Crowdfunding Database
+1. Create the Category DataFrame, category.csv 
+2. Create the Subcategory DataFrame, subcategory.csv
+3. Create the Campaign DataFrame, campaign.csv
+4. Create the Contacts DataFrame, contacts.csv
+5. Create an ERD and table schema using: https://www.quickdatabasediagrams.com/
+6. Create a Postgres Crowdfunding Database
 
 
 #### Project Files
