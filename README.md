@@ -7,12 +7,14 @@ Collaboration and communication is the key to success for this project.
 ### Project Goals:
 The goals for this project are as follows:
 
-1. Create a Category DataFrame, category.csv
-2. Create a Subcategory DataFrames, subcategory.csv
-3. Create a Campaign DataFrame, campaign.csv
-4. Create a Contacts DataFrame, contacts.csv
-5. Create an ERD using: https://www.quickdatabasediagrams.com/
-6. Create a Crowdfunding Database via Postgres
+1. Extract and transform crowdfunding.xlsx
+2. Create a Category DataFrame, category.csv
+3. Create a Subcategory DataFrames, subcategory.csv
+4. Create a Campaign DataFrame, campaign.csv
+5. Extract and transform contacts.xlsx
+6. Create a Contacts DataFrame, contacts.csv
+7. Create an ERD using: https://www.quickdatabasediagrams.com/
+8. Create a Crowdfunding Database via Postgres
 
 #### Project Folders and Files
 
