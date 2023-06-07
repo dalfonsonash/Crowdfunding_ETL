@@ -14,19 +14,22 @@ The goals for this project are as follows:
 5. Create an ERD using: https://www.quickdatabasediagrams.com/
 6. Create a Crowdfunding Database via Postgres
 
-#### Project Files
+#### Project Folders and Files
 
-1. **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.  
-2. **DataFrame_files** folder contains four .csv files:
+1.  **DataFrame_files** folder contains four .csv files:
     - **category.csv**
     - **subcategory.csv**
     - **campaign.csv**
     - **contacts.csv** (used Option 1: Use Python dictionary methods per instructions.)
-3.  **Resources** folder contains two .xlsx files used to create dataframe files.
+2.  **Resources** folder contains two .xlsx files used to create dataframe files.
     - **contacts.xlsx**
     - **crowdfunding.xlsx**
-5.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
-6.  **ERD Text.rtf**, file used to generate diagram.
-7.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
-8.  **Screen_Shots** folder, four .png files of Postgres data import and selection.
+3.  **Screen_Shots** folder, four .png files/snapshots of Postgres data import and selection.
+4.  **ERD Text.rtf**, file used to generate diagram.
+5.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.
+6.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
+7.  **README.md**
+8.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
+
+
 
