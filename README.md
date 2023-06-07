@@ -17,7 +17,7 @@ The goals for this project are as follows:
 #### Project Files
 
 1. **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.  
-2. DataFrame files created and saved in **Resources** folder:
+2. **DataFrame_files** folder contains four .csv files:
     - **category.csv**
     - **subcategory.csv**
     - **campaign.csv**
