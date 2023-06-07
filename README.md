@@ -22,8 +22,11 @@ The goals for this project are as follows:
     - **subcategory.csv**
     - **campaign.csv**
     - **contacts.csv** (used Option 1: Use Python dictionary methods per instructions.)
-3.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
-4.  **ERD Text.rtf**, file used to generate diagram.
-5.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
-6.  **Screen_Shots** folder, four .png files of Postgres data import and selection.
+3.  **Resources** folder contains two .xlsx files used to create dataframe files.
+    - **contacts.xlsx**
+    - **crowdfunding.xlsx**
+5.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
+6.  **ERD Text.rtf**, file used to generate diagram.
+7.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
+8.  **Screen_Shots** folder, four .png files of Postgres data import and selection.
 
