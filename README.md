@@ -1,5 +1,5 @@
 ## Crowdfunding_ETL
-### Project Team: David Alfonso, Payson Cushman, Leo Pierantoni
+### Project Team: Payson Cushman, Leo Pierantoni, David Alfonso 
 The goal of this project is to build an ETL(Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. We will create four CSV files and use the CSV file data to create an ERD(Entity Relationship Diagram) and a table schema. Finally, we will upload the CSV file data into a Postgres database.
 
 Collaboration and communication is the key to success for this project.
