@@ -16,13 +16,14 @@ The goals for this project are as follows:
 
 #### Project Files
 
-1. Used the ETL_Mini_Project_Starter_Code.ipynb to create the necessary .csv files for the database.  
-   File renamed ETL_Mini_Project_PCushman_LPierantoni_DAlfonso.ipynb per instructions (see Starter Files folder).
-2. Created the following four .csv per instructions (see ..Starter_Files/Resources):
-    - category.csv
-    - subcategory.csv
-    - campaign.csv
-    - contacts.csv (used Option 1: Use Python dictionary methods per instructions.)
-3.  Database created in Postgres.
-4.  All four .csv files imported into corresponding SQL table
+1. **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.  
+2. DataFrame files created and saved in **Resources** folder:
+    - **category.csv**
+    - **subcategory.csv**
+    - **campaign.csv**
+    - **contacts.csv** (used Option 1: Use Python dictionary methods per instructions.)
+3.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
+4.  **ERD Text.rtf**, file used to generate diagram.
+5.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
+6.  **Screen_Shots** folder, four .png files of Postgres data import and selection.
 
