@@ -20,7 +20,7 @@ The goals for this project are as follows:
 
 #### Project Folders and Files
 
-1.  **DataFrame_files** folder contains four .csv files:
+1.  **DataFrame_files** folder contains five .csv files:
     - **campaign.csv**
     - **category.csv**
     - **contacts_option1.csv** (used Option 1: Using Python dictionary methods.)
@@ -31,8 +31,8 @@ The goals for this project are as follows:
     - **crowdfunding.xlsx**
 3.  **Screen_Shots** folder, four .png files/snapshots of Postgres data import and selection.
 4.  **ERD Text.rtf**, file used to generate diagram.
-5.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 2.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.
-6.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 1.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.
+5.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 2.ipynb**, Jupyter Notebook file used to create the dataframe, contacts_option2.csv file for the database.
+6.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 1.ipynb**, Jupyter Notebook file used to create all dataframes, and contacts_option1.csv file for the database.
 7.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
 8.  **README.md**
 9.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
