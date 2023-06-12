@@ -1,5 +1,5 @@
 DROP SCHEMA public CASCADE;
-CREATE SCHEMA public;
+CREATE SCHEMA public; 
 
 CREATE TABLE category (
     category_id CHAR(4) PRIMARY KEY,

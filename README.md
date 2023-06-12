@@ -1,25 +1,41 @@
 ## Crowdfunding_ETL
-For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
+### Project Team: Payson Cushman, Leo Pierantoni, David Alfonso 
+The goal of this project is to build an ETL(Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. We will create four CSV files and use the CSV file data to create an ERD(Entity Relationship Diagram) and a table schema. Finally, we will upload the CSV file data into a Postgres database.
 
-Since this is a one-week project, make sure that you have done at least half of your project before the third day of class to stay on track.
+As this was a "mini project" with multiple collaborators, we opted to build both ETL pipelines using Python dictionary methods and REGEX/Regular Expressions. 
 
-Although you and your partner will divide the work, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your partner regularly and offer support.
+Collaboration and communication is the key to success for this project.
+
 ### Project Goals:
 The goals for this project are as follows:
 
-1. Create the Category and Subcategory DataFrames
-2. Create the Campaign DataFrame
-3. Create the Contacts DataFrame
-4. Create the Crowdfunding Database
+1. Extract and transform crowdfunding.xlsx
+2. Create a Category DataFrame, category.csv
+3. Create a Subcategory DataFrames, subcategory.csv
+4. Create a Campaign DataFrame, campaign.csv
+5. Extract and transform contacts.xlsx using Option 1 and Option 2.
+6. Create a Contacts DataFrame, contacts.csv and contacts_option2.csv
+7. Create an ERD using: https://www.quickdatabasediagrams.com/
+8. Create a Crowdfunding Database via Postgres
 
-#### Project Files
+#### Project Folders and Files
 
-1. Used the ETL_Mini_Project_Starter_Code.ipynb to create the necessary .csv files for the database.  
-   File renamed ETL_Mini_Project_PCushman_LPierantoni_DAlfonso.ipynb per instructions (see Starter Files folder).
-2. Created the following four .csv per instructions (see ..Starter_Files/Resources):
-    - category.csv
-    - subcategory.csv
-    - campaign.csv
-    - contacts.csv (used Option 1: Use Python dictionary methods per instructions.)
-    - ![image](https://github.com/dalfonsonash/Crowdfunding_ETL/assets/126922261/b8956349-189c-47a9-9907-0b7fbb89f80b)
+1.  **DataFrame_files** folder contains four .csv files:
+    - **campaign.csv**
+    - **category.csv**
+    - **contacts_option1.csv** (used Option 1: Using Python dictionary methods.)
+    - **contacts_option2.csv** (used Option 2: Use Regex/Regular Expressions methods.)
+    - **subcategory.csv**
+2.  **Resources** folder contains two .xlsx files used to create dataframe files.
+    - **contacts.xlsx**
+    - **crowdfunding.xlsx**
+3.  **Screen_Shots** folder, four .png files/snapshots of Postgres data import and selection.
+4.  **ERD Text.rtf**, file used to generate diagram.
+5.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 2.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.
+6.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 1.ipynb**, Jupyter Notebook file used to create the necessary .csv files for the database.
+7.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
+8.  **README.md**
+9.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
+
+
 
