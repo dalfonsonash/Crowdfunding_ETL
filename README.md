@@ -23,8 +23,8 @@ The goals for this project are as follows:
 1.  **DataFrame_files** folder contains five .csv files:
     - **campaign.csv**
     - **category.csv**
-    - **contacts_option1.csv** (used Option 1: Using Python dictionary methods.)
-    - **contacts_option2.csv** (used Option 2: Use Regex/Regular Expressions methods.)
+    - **contacts_option1.csv** (Option 1: Using Python dictionary methods.)
+    - **contacts_option2.csv** (Option 2: Using Regex/Regular Expressions methods.)
     - **subcategory.csv**
 2.  **Resources** folder contains two .xlsx files used to create dataframe files.
     - **contacts.xlsx**
