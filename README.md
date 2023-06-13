@@ -31,11 +31,11 @@ The goals for this project are as follows:
     - **crowdfunding.xlsx**
 3.  **Screen_Shots** folder, four .png files/snapshots of Postgres data import and selection.
 4.  **ERD Text.rtf**, file used to generate diagram.
-5.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 2.ipynb**, Jupyter Notebook file used to create the dataframe, contacts_option2.csv file for the database.
-6.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 1.ipynb**, Jupyter Notebook file used to create all dataframes, and contacts_option1.csv file for the database.
+5.  **ETL_Mini_Project_Option_1.ipynb**, Jupyter Notebook file used to create all dataframes, and contacts_option1.csv file for the database.
+6.  **ETL_Mini_Project_PCushman_LPierantoni_DAlfonso-Option 2.ipynb**, Jupyter Notebook file used to create the dataframe, contacts_option2.csv file for the database.
 7.  **QuickDBD-Crowdfunding ERD.png** file of database diagram.
 8.  **README.md**
-9.  **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
+9. **crowdfunding_db_schema.sql file**, database and tables created in Postgres.
 
 
 
