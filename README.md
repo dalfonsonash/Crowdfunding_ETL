@@ -20,13 +20,12 @@ The goals for this project are as follows:
 
 #### Project Folders and Files
 
-1.  **DataFrame_files** folder contains five .csv files:
+1.  **Resources** folder contains five .csv files and two .xlxs files:
     - **campaign.csv**
     - **category.csv**
     - **contacts_option1.csv** (Option 1: Using Python dictionary methods.)
     - **contacts_option2.csv** (Option 2: Using Regex/Regular Expressions methods.)
     - **subcategory.csv**
-2.  **Resources** folder contains two .xlsx files used to create dataframe files.
     - **contacts.xlsx**
     - **crowdfunding.xlsx**
 3.  **Screen_Shots** folder, four .png files/snapshots of Postgres data import and selection.
